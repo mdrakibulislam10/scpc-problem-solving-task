@@ -19,5 +19,5 @@ function generateRandomPass(passLength) {
     return password;
 };
 
-const passLength = 8;
+const passLength = 6;
 console.log(generateRandomPass(passLength));
